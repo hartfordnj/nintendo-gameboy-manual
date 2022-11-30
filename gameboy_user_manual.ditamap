@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>GameBoy User Manual</mainbooktitle>
+    </booktitle>
+    <frontmatter>
+        <booklists/>
+    </frontmatter>
+    <chapter href="section_1.dita">
+        <topicref href="game_boy_features_0.dita"/>
+        <topicref href="game_boy_features.dita"/>
+        <topicref href="description_of_features.dita"/>
+        <topicref href="how_to_install_batteries.dita"/>
+        <topicref href="how_to_use_the_game_boy.dita"/>
+        <topicref href="how_to_use_the_video_link_cable.dita"/>
+        <topicref href="things_to_remember_cautions.dita"/>
+    </chapter>
+    <chapter href="section_2.dita">
+        <topicref href="what_to_do_if_the_game_boy_does_not_work.dita"/>
+        <topicref href="before_you_call_for_assistance.dita"/>
+        <topicref href="specifications.dita"/>
+    </chapter>
+    <chapter href="section_3.dita">
+        <topicref href="accessories.dita"/>
+    </chapter>
+    <chapter href="90_day_limited_warranty.dita"/>
+    <chapter href="repair_service_after_warranty.dita"/>
+    <chapter href="consumer_parts_list_and_order_form.dita"/>
+</bookmap>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="game_boy_features_0">
+    <title>GAME BOY Features</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <section id="section_dvn_3vr_rvb">
+            <fig id="fig_kl5_xvr_rvb">
+                <title>gameboy features</title>
+                <image href="gameboy-manual-images/gameboy-features.png" id="image_ll5_xvr_rvb">
+                    <alt>Figure 1: Numbered Diagram of GAME BOY Features</alt>
+                </image>
+            </fig>
+            <ol id="ol_rgq_zvr_rvb">
+                <li><feat-desc-title>Power Switch (POWER)</feat-desc-title></li>
+            </ol>
+            <p/>
+        </section>
+    </refbody>
+</reference>

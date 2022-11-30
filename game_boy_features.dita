@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="game_boy_features">
+    <title>GAME BOY Features</title>
+    <shortdesc/>
+    <conbody>
+        <fig id="fig_ns2_ttr_rvb">
+            <title>GAME BOY Features</title>
+            <image href="gameboy-manual-images/gameboy-features.png" id="image_os2_ttr_rvb">
+                <alt>GAME BOY hand held game console diagram</alt>
+            </image>
+        </fig>
+        <p></p>
+    </conbody>
+</concept>
