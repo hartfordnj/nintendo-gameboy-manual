@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="untitled1">
+    <title>COMPLIANCE WITH FCC REGULATIONS</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>This product gnerates and uses radio frequency energy an, if not installed and used in
+            strict accoirdance with manfactuers instructions, it may cause interference with radio
+            and television reception. This product complies with the limits for a Class B computing
+            device in accordance with the specifications in Subpart J of part 15 of the FCC rules,
+            which are designed to provide reasonable protection against such interference when
+            operated in a commercial environment. However, there is no guarantee that interference
+            will not occur in a residential area or elsewhere in which event the user may be
+            required to undertake corrective measures at his own expense.</p>
+        <p>If necessary, the user should consult the dealer or an experienced radio-television
+            technician for additional suggestions. The following booklet may also be helpful: "How
+            to Identify and Resolve Radio-TV Interference Problems." This booklet is available from
+            the U.S. Government Printing Office, Washington D.C. 50402, Stock No.
+            004-000-00345-4.</p>
+        <p>THIS DIGITAL APPARATUS DOES NOT EXCEED THE CLASS B LIMITS FOR RADIO NOISE EMISSIONS FROM
+            DIGITAL APPARATUS AS SET OUT IN THE RADIO INTERFERENCE REGULATIONS OF THE CANADIAN
+            DEPARTMENT OF COMMUNICATIONS.</p>
+    </conbody>
+</concept>

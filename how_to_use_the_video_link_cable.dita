@@ -2,8 +2,22 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="how_to_use_the_video_link_cable">
     <title>How to Use the Video Link cable</title>
-    <shortdesc></shortdesc>
+    <shortdesc>How to use the Video Link cable for the GAME BOY.</shortdesc>
     <conbody>
-        <p></p>
+        <ul id="ul_l1m_lyf_svb">
+            <li>Remove the Extension connector cover (use your fingernail)</li>
+            <li>Insert the Video Link cable plugs into each of the Game Boys, turn the Power Switch
+                to the "ON" position on both units.</li>
+        </ul>
+        <p>Things to Remember (Cautions):<ul id="ul_rrc_ryf_svb">
+                <li>Turn the switch to the "ON" position only after connecting the Video
+                    Link<?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>TM<?oxy_custom_end?>
+                    cable plugs to the Game Boy body.</li>
+                <li>Only software with the 2-player option should be used.</li>
+                <li>Do not insert different games in the interconnected Game Boys.</li>
+                <li>Always replace the extension connector cover when you are not using the Video
+                    Link<?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>TM<?oxy_custom_end?>
+                    cab;e.</li>
+            </ul></p>
     </conbody>
 </concept>

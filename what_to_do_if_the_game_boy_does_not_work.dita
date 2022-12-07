@@ -1,9 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="what_to_do_if_the_game_boy_does_not_work">
-    <title>What To Do If The GAME BOY Does Not Work</title>
-    <shortdesc></shortdesc>
+    <title>(Before You Call For Assistance)</title>
+    <shortdesc>(Before You Call For Assistance)</shortdesc>
     <conbody>
         <p></p>
+        <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_lwk_p33_tvb">
+            <sthead>
+                <stentry>Sympton</stentry>
+                <stentry>Remedy</stentry>
+            </sthead>
+            <strow>
+                <stentry>The power cannot be turned ON.</stentry>
+                <stentry>Check the Game Pak is set properly in place.</stentry>
+            </strow>
+            <strow>
+                <stentry>The red battery light does not work even when the power is turned ON with
+                    the Game Pak inserted.</stentry>
+                <stentry>Check that the batteries are set in place. If the light does not work after
+                    checcking this, replace the batteries.</stentry>
+            </strow>
+            <strow>
+                <stentry>There is nothing on the display or only horizontal lines appear when the
+                    power is turned ON and the battery light is ON.</stentry>
+                <stentry>
+                    <ul id="ul_knk_y33_tvb">
+                        <li>Turn OFF the power, wait a while and turn it ON again.</li>
+                        <li>Adjust the contrast.</li>
+                        <li>Check that the Game Pak is inserted properly.</li>
+                    </ul>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>Bi sound can be hears during the game.</stentry>
+                <stentry>
+                    <ul id="ul_qrl_cj3_tvb">
+                        <li>Check that the stereo headphones are disconnected.</li>
+                        <li>Adjust the sound volume.</li>
+                    </ul>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>The display is hard to see.</stentry>
+                <stentry>Replace the batteries.<p>(Use in a room with more light.</p></stentry>
+            </strow>
+            <strow>
+                <stentry>The display is black.</stentry>
+                <stentry>Adjust the contrast.</stentry>
+            </strow>
+            <strow>
+                <stentry/>
+                <stentry/>
+            </strow>
+        </simpletable>
+        <p>*If the machine still does not work, please call the Nintendo Consumer "Hotline" at
+            1-800-255-3700</p>
     </conbody>
 </concept>

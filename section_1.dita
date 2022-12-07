@@ -2,7 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="section_1">
     <title>SECTION 1</title>
-    <shortdesc></shortdesc>
+    <shortdesc>GAME
+        BOY<?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>tm<?oxy_custom_end?>
+        Features</shortdesc>
     <conbody>
         <p></p>
     </conbody>

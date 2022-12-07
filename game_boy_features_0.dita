@@ -12,9 +12,34 @@
                 </image>
             </fig>
             <ol id="ol_rgq_zvr_rvb">
-                <li><feat-desc-title>Power Switch (POWER)</feat-desc-title></li>
+                <li>Power Switch (POWER)<p>Slide the switch to the right to turn ON the power.
+                        </p><p>(Caution: Don't switch if ON before inserting a Game Pack.)</p></li>
+                <li>External power supply jaclk<p>You can connect a Rechargeable Battery Pack here
+                        (sold separately) for longer play.</p></li>
+                <li>Game Pak slot<p>Insert the Nintendo GAME BOY Game Pak here. (See page 7 for
+                        instructions on inserting Game Pak)</p></li>
+                <li>Extension connector (EXT CONNECTOR<p>Connects to other GAME BOY. To play a
+                        2-player game, use your fingernail to carefully remove the connector cover
+                        and then connect a Video Link cable to another GAME BOY.</p></li>
+                <li>Volume dial (VOL)<p>Adjust the sound volume. Rotate the dial upwards to increse
+                        the colume; rotate downwards to decrease the volume.</p></li>
+                <li>Battery light (BATTERY)<p>Lights up to show the power level of the batteries
+                        when the power switch is turned ON. Replace the batteries if the red light
+                        gets dim. (See page 6)</p></li>
+                <li>Contrast adjustment (CONTRAST)<p>Adjusts the contrast of the display. (Rotate
+                        the dial upwards for a lighter display. Rotate downwards for a darker
+                        display. )</p></li>
+                <li>Display<p>A monochrome liquid crystal display.</p></li>
+                <li>Battery Cover<p>Remove the cover to replace the batteries. (See page
+                    6.)</p></li>
+                <li>Headphone jack (PHONES)<p>Connect the stereo headphones that come with the GAME
+                        BOY to enjoy the impressive sounds of games without disturbing others around
+                        you.</p></li>
+                <li>Speaker<p>A small built-in external speaker. It will turn on automatically if
+                        the headphones are not plugged in to the headphones jack.</p></li>
+                <li>Operation buttons<p>The controls for playing games. (See game manuals for button
+                        functions.)</p></li>
             </ol>
-            <p/>
         </section>
     </refbody>
 </reference>

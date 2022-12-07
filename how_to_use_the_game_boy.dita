@@ -2,8 +2,25 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="how_to_use_the_game_boy">
     <title>How to Use the GAME BOY</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Instrcuctions for operating GAME BOY.</shortdesc>
     <conbody>
-        <p></p>
+        <ol class="operlist" id="ol_o1c_lwf_svb">
+            <li>Insert any NINTENDO GAME BOY Game Pak into the Game Pak slot in the back of the GAME
+                BOY body. <p><b>Make sure that the side with the label faces up.</b> (See
+                    illustration) </p><p>Caution: Inspect the Game Pak connector for foreign
+                    material before inserting it into the slot.</p></li>
+            <li>Slide the power switch to the ON poistion.</li>
+            <li>The monitor will display "Nintendo C. " It will then change to the display for the
+                game that you have inserted. Follow the instructions for the Game Pak you are
+                using.</li>
+            <li>If the screen remains blank even though the switch is turned to the "ON" position
+                after the Game Pak is inserted, please adjust the Contrast Dial.</li>
+            <li>To remove the Game Pak after playing, turn the power OFF and slide the Game Pak
+                upwards using both thumbs as shown in the illustration.<p>(Game Pak cannot be taken
+                    out when the power is ON.)<note id="note_xtt_tjb_tvb" type="caution">Caution:</note></p></li>
+        </ol>
+        <p/>
+        <p>Caution:</p>
+        <p>Be sure to store the Game Paks in their cases for protection when not in use.</p>
     </conbody>
 </concept>

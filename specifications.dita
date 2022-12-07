@@ -2,8 +2,57 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="specifications">
     <title>Specifications</title>
-    <shortdesc></shortdesc>
     <conbody>
-        <p></p>
+        <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_omb_sj3_tvb">
+            <strow>
+                <stentry>Model</stentry>
+                <stentry>DMG - 01</stentry>
+            </strow>
+            <strow>
+                <stentry>Power supply</stentry>
+                <stentry>
+                    <p>Four AA Batteries</p>
+                    <p>or a Rechargeable Battery Pack (DMG-03-USA)</p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>Power consumption</stentry>
+                <stentry>approx. 700mW (differs according to Game Pak used)</stentry>
+            </strow>
+            <strow>
+                <stentry>LSI</stentry>
+                <stentry>
+                    <p>CPU : custom 8-bit C-MOS x 1</p>
+                    <p>RAM : 64-Kbit static RAM x 2</p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>Dimensions (W x L x T)</stentry>
+                <stentry>90mm x 148mm x 32mm / 3.5 x 5.8 x 1.3 (inch)</stentry>
+            </strow>
+            <strow>
+                <stentry>Weight</stentry>
+                <stentry>approx. 300g (batteris included)</stentry>
+            </strow>
+            <strow>
+                <stentry>Sound output</stentry>
+                <stentry>
+                    <p>Speaker
+                        (8<?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>omega<?oxy_custom_end?>)
+                        10mW</p>
+                    <p>Headphones
+                        (16<?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>omeg<?oxy_custom_end?>a)
+                        2mW</p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>Display</stentry>
+                <stentry>STN type dot matrix LCD</stentry>
+            </strow>
+        </simpletable>
+        <p>Battery life : Four AA size batteris can be used for about 15hours. However, this may
+            differ depending on Gamr Pak used and temperature.</p>
+        <p>*Specifications are subject to change without notice in the interest of product
+            improvement.</p>
     </conbody>
 </concept>

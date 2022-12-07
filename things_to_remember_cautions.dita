@@ -2,8 +2,24 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="things_to_remember_cautions">
     <title>Things to Remember (Cautions)</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Additonal cautions when operating and handling the GAME BOY.</shortdesc>
     <conbody>
-        <p></p>
+        <ol id="ol_xmd_gzf_svb">
+            <li>Insert Game Pak firmly but take care not to exert undue force on the GAME BOY
+                    body.<p>Keep Game Paks stored in their cases for thei protection when not in
+                    use.</p></li>
+            <li>Before inserting and removing Game Pak, make sure that the power is OFF. (Do not
+                unneccisarily turn the power ON and OFF. As this will shorten the life of your
+                batteries.)</li>
+            <li>Insert only NINTENDO GAME BOY Game Paks into the Game Pak slot.</li>
+            <li>Don't touch the terminals and connectors on the FAME BOY bosy or Game Pak. Take
+                special care in preventing dust from getting inside the Game Pak slot. Inspect the
+                GAME PAK connector for foreign material before inserting it into the Game Pak
+                slot.</li>
+            <li>Never dissassemble or attempt repair to the GAME BOY and its accessories. This will
+                void your warranty.</li>
+            <li>Precision electrical parrts are used in the GAME BOY.<p>Dont subject the GAME BOY to
+                    strong shock by striking or dropping it,</p></li>
+        </ol>
     </conbody>
 </concept>
