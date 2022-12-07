@@ -1,9 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="_90_day_limited_warranty">
-    <title>90-DAY LIMITED WARRANTY</title>
-    <shortdesc></shortdesc>
+    <title>1. 90-DAY LIMITED WARRANTY</title>
     <conbody>
-        <p></p>
+        <p>90-DAY LIMITED WARRANTY NINTENDO GAME BOY</p>
+        <p>TO VALIDATE THE FOLLOWING 90-DAY LIMITED WARRANTY, YOUR WARRANTY CARD AND SALES SLIP OR
+            PROOF OF PURCHASE, MUST BE COMPLETED AND RETURNED TO NINTENDO WITHIN 10 DAYS AFTER DATE
+            OF PURCHASE. </p>
+        <p>90-DAY LIMITED WARRANTY </p>
+        <p>Nintendo warrants to the original consumer purchaser that this GAME BOY shall be free
+            from defects in material and workmanship for a period of 90 days from the date of
+            purchase. If a defect covered by this warranty occurs during this 90-day warranty
+            period, Nintendo will repair or replace the defective GAME BOY at its option, free of
+            charge. To receive this warranty service : <ol id="ol_vxj_2g4_tvb">
+                <li> DO NOT return your defective merchandise to the retailer. </li>
+                <li>Notify the Nintendo consumer Service Department of the problem requiring
+                    warranty service by calling 1-800-255-3700. Our Consumer Service Department is
+                    in operation from 6:00 A.M. to 6:00 P.M. Pacific time, Monday through Saturday.
+                    PLEASE DO NOT send any defective items to Nintendo before calling the Nintendo
+                    Consumer Service Department.</li>
+                <li>If the Nintendo Service Representative is unable to solve the problem by phone,
+                    you will be provided with a Return Authorization number. You MUST record this
+                    number on the outside packaging of your defective components, and return it</li>
+            </ol></p>
+        <p>15 FREIGHT PREPAID, AND INSURED FOR LOSS OR DAMAGE TO: <simpletable frame="all"
+                relcolwidth="1* 1*" id="simpletable_unb_4g4_tvb">
+                <strow>
+                    <stentry>
+                        <p>In the United States:</p>
+                        <p> Nintendo of America Inc.</p>
+                        <p>Consumer Service Department</p>
+                        <p>4820-150th Avenue N. E. Redmond WA 98052</p>
+                        <p>RA#______________</p>
+                        <p/>
+                    </stentry>
+                    <stentry>
+                        <p> In Canada: </p>
+                        <p>Nintendo of Canada Ltd.</p>
+                        <p>110-13480 Crestwood Place</p>
+                        <p>Richmond BC V6V2J9</p>
+                        <p>RA#______________</p>
+                    </stentry>
+                </strow>
+            </simpletable></p>
+        <p>This warranty shall not apply if the GAME BOY has been damaged by negligence, accident,
+            unreasonable use, commercial use, modification, tampering, or by other causes unrelated
+            to defective materials or workmanship. This warranty shall not apply if the GAME BOY
+            serial number has been altered, defaced, or removed. WARRANTIES LIMITATIONS </p>
+        <p>ANY APPLICABLE IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS
+            FOR A PARTICULAR PURPOSE, ARE HEREBY LIMITED TO NINETY DAYS FROM THE DATE OF PURCHASE
+            AND ARE SUBJECT TO THE CONDITIONS SET FORTH HEREIN. IN NO EVENT SHALL NINTENDO BE LIABLE
+            FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES RESULTING FROM THE BREACH OF ANY EXPRESS OF
+            IMPLIED WARRANTIES. </p>
+        <p>The provisions of this warranty are valid in the United States and Canada only. Some
+            states/provinces do not allow limitations on how long an implied warranty lasts or
+            exclusion of consequential or incidental damages, so the above limitation or exclusion
+            may not apply to you. This warranty gives you specific legal rights, and you may also
+            have other rights which vary between states/provinces. </p>
+        <p>*Components covered under this warranty are: GAME BOY AND STEREO HEAD PHONES - BATTERIES
+            ARE NOT COVERED UNDER THIS WARRANTY.</p>
     </conbody>
 </concept>

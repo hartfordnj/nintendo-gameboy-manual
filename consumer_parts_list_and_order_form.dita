@@ -2,8 +2,94 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="consumer_parts_list_and_order_form">
     <title>CONSUMER PARTS LIST AND ORDER FORM</title>
-    <shortdesc></shortdesc>
+    <shortdesc>GAME BOY CONSUMER PARTS LIST &amp; ORDER FORM</shortdesc>
     <conbody>
         <p></p>
+        <table frame="all" rowsep="1" colsep="1" id="table_vny_1kp_tvb">
+            <tgroup cols="5">
+                <colspec colname="c1" colnum="1" colwidth="1.27*" colsep="1" rowsep="1"/>
+                <colspec colname="c2" colnum="2" colwidth="4.07*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="2.11*" colsep="1" rowsep="1"/>
+                <colspec colname="c5" colnum="5" colwidth="2.11*" colsep="1" rowsep="1"/>
+                <thead>
+                    <row>
+                        <entry>Nintendo Part No.</entry>
+                        <entry>Part Name</entry>
+                        <entry>Price</entry>
+                        <entry>Quantity</entry>
+                        <entry>Amount of Purchase</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p>18097</p>
+                            <p>18098</p>
+                            <p>18099</p>
+                            <p>18100</p>
+                            <p>18101</p>
+                            <p>18102</p>
+                            <p>18103</p>
+                            <p>XXX</p>
+                        </entry>
+                        <entry>Stereo Headphones<p>Battery Cover</p><p>Connector Cover</p><p>Video
+                                Link
+                                <?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>TM<?oxy_custom_end?></p><p>*Power
+                                Cord</p><p>Game Pak Case</p><p>GameBoy Manual</p><p>*Game Pak Manual
+                                (Specify Name)</p></entry>
+                        <entry>
+                            <p>$8.50</p>
+                            <p>1.00</p>
+                            <p>.50</p>
+                            <p>8.50</p>
+                            <p>5.00</p>
+                            <p>1.00</p>
+                            <p>2.00</p>
+                            <p>1.25</p>
+                        </entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row rowsep="1">
+                        <entry namest="c1" nameend="c4" align="right" colsep="0" rowsep="1">SUB
+                            TOTAL</entry>
+                        <entry colsep="1" rowsep="1"/>
+                    </row>
+                    <row rowsep="1">
+                        <entry namest="c1" nameend="c4" align="right" colsep="0" rowsep="1"
+                            >WASHINGTON STATE RESIDENTS ADD 8.1% SALES TAX<p>BRITISH COLUMBIA
+                                RESIDENTS ADD 6% SALES TAX</p></entry>
+                        <entry colsep="1" rowsep="1"/>
+                    </row>
+                    <row rowsep="1">
+                        <entry namest="c1" nameend="c4" align="right" colsep="0" rowsep="1">POSTAGE
+                            &amp; HANDLING ($2 For Orders Of $4 or more,
+                            50<?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>c<?oxy_custom_end?>
+                            For Orders of Less Than $4)</entry>
+                        <entry colsep="1" rowsep="1"/>
+                    </row>
+                    <row rowsep="1">
+                        <entry namest="c1" nameend="c4" align="right" colsep="0" rowsep="1">TOTAL
+                            AMOUNT DUE</entry>
+                        <entry colsep="1" rowsep="1"/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p><u>To Order By Phone (Requires VISA or MASTERCARD ONLY. NO C.O.D. Orders)</u><table
+                frame="none" rowsep="0" colsep="0" id="table_o4g_xnp_tvb">
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1.84*"/>
+                    <tbody>
+                        <row>
+                            <entry align="center" valign="top">Call: 1-800-255-3700</entry>
+                            <entry>6:00 A.M. to 600 P.M.<p>Pacific Time (MON. to SAT.)</p></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table></p>
+        <p>Please have your VISA or MASTERCARD card number and expiration date ready.</p>
     </conbody>
 </concept>

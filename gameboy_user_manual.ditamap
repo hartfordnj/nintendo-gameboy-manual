@@ -19,6 +19,7 @@
     <chapter href="section_2.dita">
         <topicref href="what_to_do_if_the_game_boy_does_not_work.dita"/>
         <topicref href="specifications.dita"/>
+        <topicref href="compliance_wtih_fcc_regulations.dita"/>
     </chapter>
     <chapter href="section_3.dita">
         <topicref href="accessories.dita"/>

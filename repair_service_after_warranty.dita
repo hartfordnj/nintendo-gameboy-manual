@@ -1,9 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="repair_service_after_warranty">
-    <title>REPAIR/SERVICE AFTER WARRANTY</title>
-    <shortdesc></shortdesc>
+    <title>2. REPAIR/SERVICE AFTER WARRANTY</title>
     <conbody>
-        <p></p>
+        <p>If your GAME BOY component develops a problem requiring service after the 90-day warranty
+            period, contact the Nintendo Consumer Service Department at 1-800-255-3700. If the
+            Nintendo Service Representative is unable to solve the problem over the phone, you will
+            be advised of the approximate cost to repair the component (s) and provided with a
+            Return Authorization number. You MUST then record this number on the outside packaging
+            of the defective component (s) and return the defective merchandise, FREIGHT PREPAID,
+            AND INSURED FOR LOSS OR DAMAGE TO:</p>
+        <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_ks5_4y4_tvb">
+            <strow>
+                <stentry>
+                    <p>In the United States:</p>
+                    <p>Nintendo of America Inc. </p>
+                    <p>NES Consumer Service Department</p>
+                    <p>4820-150th Avenue N. E. </p>
+                    <p>Redmond, WA 98052</p>
+                    <p>RA#______________</p>
+                </stentry>
+                <stentry>
+                    <p>In Canada:</p>
+                    <p>Nintendo of Canada Ltd.</p>
+                    <p>110-13480 Crestwood Place</p>
+                    <p>Richmond BC V6V2J9 </p>
+                    <p>RA#______________</p>
+                </stentry>
+            </strow>
+        </simpletable>
+        <p>Please enclose a money order payable to Nintendo for the cost quoted you. Repairs may
+            also be charged on a VISA or MASTERCARD credit card.</p>
+        <p>If, after personal inspection, the Nintendo Service Technician determines your GAME BOY
+            cannot be repaired, it will be returned and your payment refunded.</p>
     </conbody>
 </concept>
