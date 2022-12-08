@@ -4,8 +4,8 @@
     <title>CONSUMER PARTS LIST AND ORDER FORM</title>
     <shortdesc>GAME BOY CONSUMER PARTS LIST &amp; ORDER FORM</shortdesc>
     <conbody>
-        <p></p>
-        <table frame="all" rowsep="1" colsep="1" id="table_vny_1kp_tvb">
+        <p/>
+        <table frame="all" rowsep="0" colsep="0" id="table_vny_1kp_tvb">
             <tgroup cols="5">
                 <colspec colname="c1" colnum="1" colwidth="1.27*" colsep="1" rowsep="1"/>
                 <colspec colname="c2" colnum="2" colwidth="4.07*"/>
@@ -15,8 +15,8 @@
                 <thead>
                     <row>
                         <entry>Nintendo Part No.</entry>
-                        <entry>Part Name</entry>
-                        <entry>Price</entry>
+                        <entry rowsep="1">Part Name</entry>
+                        <entry rowsep="1">Price</entry>
                         <entry>Quantity</entry>
                         <entry>Amount of Purchase</entry>
                     </row>
@@ -33,12 +33,12 @@
                             <p>18103</p>
                             <p>XXX</p>
                         </entry>
-                        <entry>Stereo Headphones<p>Battery Cover</p><p>Connector Cover</p><p>Video
-                                Link
+                        <entry rowsep="1">Stereo Headphones<p>Battery Cover</p><p>Connector
+                                Cover</p><p>Video Link
                                 <?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>TM<?oxy_custom_end?></p><p>*Power
                                 Cord</p><p>Game Pak Case</p><p>GameBoy Manual</p><p>*Game Pak Manual
                                 (Specify Name)</p></entry>
-                        <entry>
+                        <entry rowsep="1">
                             <p>$8.50</p>
                             <p>1.00</p>
                             <p>.50</p>
@@ -52,25 +52,25 @@
                         <entry/>
                     </row>
                     <row rowsep="1">
-                        <entry namest="c1" nameend="c4" align="right" colsep="0" rowsep="1">SUB
+                        <entry namest="c1" nameend="c4" align="right" colsep="1" rowsep="1">SUB
                             TOTAL</entry>
                         <entry colsep="1" rowsep="1"/>
                     </row>
                     <row rowsep="1">
-                        <entry namest="c1" nameend="c4" align="right" colsep="0" rowsep="1"
+                        <entry namest="c1" nameend="c4" align="right" colsep="1" rowsep="1"
                             >WASHINGTON STATE RESIDENTS ADD 8.1% SALES TAX<p>BRITISH COLUMBIA
                                 RESIDENTS ADD 6% SALES TAX</p></entry>
                         <entry colsep="1" rowsep="1"/>
                     </row>
                     <row rowsep="1">
-                        <entry namest="c1" nameend="c4" align="right" colsep="0" rowsep="1">POSTAGE
+                        <entry namest="c1" nameend="c4" align="right" colsep="1" rowsep="1">POSTAGE
                             &amp; HANDLING ($2 For Orders Of $4 or more,
                             50<?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>c<?oxy_custom_end?>
                             For Orders of Less Than $4)</entry>
                         <entry colsep="1" rowsep="1"/>
                     </row>
                     <row rowsep="1">
-                        <entry namest="c1" nameend="c4" align="right" colsep="0" rowsep="1">TOTAL
+                        <entry namest="c1" nameend="c4" align="right" colsep="1" rowsep="1">TOTAL
                             AMOUNT DUE</entry>
                         <entry colsep="1" rowsep="1"/>
                     </row>
@@ -91,5 +91,89 @@
                 </tgroup>
             </table></p>
         <p>Please have your VISA or MASTERCARD card number and expiration date ready.</p>
+        <p><u>To Order By Mail</u></p>
+        <ol id="ol_qzy_bwp_tvb">
+            <li>Please complete the following:<table frame="none" rowsep="0" colsep="0"
+                    id="table_cpb_2wp_tvb">
+                    <tgroup cols="3">
+                        <colspec colname="c1" colnum="1" colwidth="1*" align="left"/>
+                        <colspec colname="newCol2" colnum="2" colwidth="1*" align="left"/>
+                        <colspec colname="c2" colnum="3" colwidth="1*" align="left"/>
+                        <tbody>
+                            <row valign="top">
+                                <entry namest="c1" nameend="newCol2" align="left"
+                                    >Name________________________________________________________</entry>
+                                <entry align="left" valign="top">Phone:
+                                    (___)_____________________</entry>
+                            </row>
+                            <row valign="top">
+                                <entry namest="c1" nameend="c2" align="left">Street
+                                    Address:_________________________________________________________________________________</entry>
+                            </row>
+                            <row valign="top">
+                                <entry align="left">City:_________________________</entry>
+                                <entry align="left">State:_______________________</entry>
+                                <entry align="left">Zip:____________________________</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table></li>
+            <li><u>Enclose Money Order or Credit Card Authorization for total amount due.</u><p>If
+                    paying by VISA or MASTERCARD:<table frame="none" rowsep="0" colsep="0"
+                        id="table_tn3_bxp_tvb">
+                        <tgroup cols="3">
+                            <colspec colname="c1" colnum="1" colwidth="1*" align="left"/>
+                            <colspec colname="c2" colnum="2" colwidth="1*" align="left"/>
+                            <colspec colname="c3" colnum="3" colwidth="1*" align="left"/>
+                            <tbody>
+                                <row valign="top">
+                                    <entry namest="c1" nameend="c2">Please charge total amount due
+                                        of $________________________________</entry>
+                                    <entry>to my:</entry>
+                                </row>
+                                <row valign="top">
+                                    <entry>(VISA or MC?)________________</entry>
+                                    <entry>Card No. ___________________</entry>
+                                    <entry>Expiration Date_____________</entry>
+                                </row>
+                                <row valign="top">
+                                    <entry namest="c1" nameend="c2">Name on Card
+                                        (Print)_________________________________________</entry>
+                                    <entry>Signed____________________</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table></p></li>
+            <li>Mail to: <table frame="none" rowsep="0" colsep="0" id="table_bpy_rxp_tvb">
+                    <tgroup cols="2">
+                        <colspec colname="c1" colnum="1" colwidth="1*"/>
+                        <colspec colname="c2" colnum="2" colwidth="1*"/>
+                        <tbody>
+                            <row>
+                                <entry>
+                                    <p>to: In the United States:</p>
+                                    <p>Nintendo of America Inc.</p>
+                                    <p>4820 150th Avenue N.E.</p>
+                                    <p> Redmond, WA 98052.</p>
+                                </entry>
+                                <entry>
+                                    <p>In Canada:</p>
+                                    <p>Nintendo of Canada Ltd.</p>
+                                    <p>110-13480 Crestwood Place</p>
+                                    <p> Richmond BC V6V2J9</p>
+                                </entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table><p>Allow 4-6 weeks for delivery. We cannot accept cash, stamps, or C.O.D.
+                    orders. Prices are applicable within the United States and Canada only and are
+                    subject to change without notice.</p><note id="note_ljv_nyp_tvb">*Power Cord;
+                    Rechargeable Battery Pack replacement part<p>**Game Pak Manual;</p><p>Nintendo
+                        cannot supply Game Manuals for 'Licensed' games. These games can be
+                        identified by the words 'Licensed by Nintendo' on the packaging. Please
+                        contact the Game Licensee (whose name is also on the package) directly for
+                        these items. (You may call Nintendo at 1-800-255-3700 for Licensee's address
+                        and telephone number.)</p></note></li>
+        </ol>
     </conbody>
 </concept>

@@ -4,9 +4,6 @@
     <booktitle>
         <mainbooktitle>GameBoy User Manual</mainbooktitle>
     </booktitle>
-    <frontmatter>
-        <booklists/>
-    </frontmatter>
     <chapter href="section_1.dita">
         <topicref href="game_boy_features_0.dita"/>
         <topicref href="game_boy_features.dita"/>

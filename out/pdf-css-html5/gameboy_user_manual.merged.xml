@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map bookmap/bookmap " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (map bookmap) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic xnal-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="bookmap:1;3:10" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/gameboy_user_manual.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><booktitle xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title bookmap/booktitle ">  <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">GameBoy User Manual</mainbooktitle>  </booktitle></oxy:front-page-title></oxy:front-page><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="section_1" oid="section_1" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">SECTION 1</ph></title>
+    <shortdesc class="- topic/shortdesc ">GAME
+        BOYtm
+        Features</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<reference class="- topic/topic       reference/reference " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="game_boy_features_0" oid="game_boy_features_0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">GAME BOY Features</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <section class="- topic/section " id="unique_2_Connect_42_section_dvn_3vr_rvb" nd:nd-id="section_dvn_3vr_rvb">
+            <fig class="- topic/fig " id="unique_2_Connect_42_fig_kl5_xvr_rvb" nd:nd-id="fig_kl5_xvr_rvb"><title class="- topic/title ">gameboy features</title><image class="- topic/image " href="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/gameboy-manual-images/gameboy-features.png" id="unique_2_Connect_42_image_ll5_xvr_rvb" nd:nd-id="image_ll5_xvr_rvb" placement="inline">
+                    <alt class="- topic/alt ">Figure 1: Numbered Diagram of GAME BOY Features</alt>
+                </image></fig>
+            <ol class="- topic/ol " id="unique_2_Connect_42_ol_rgq_zvr_rvb" nd:nd-id="ol_rgq_zvr_rvb">
+                <li class="- topic/li ">Power Switch (POWER)<p class="- topic/p ">Slide the switch to the right to turn ON the power.
+                        </p><p class="- topic/p ">(Caution: Don't switch if ON before inserting a Game Pack.)</p></li>
+                <li class="- topic/li ">External power supply jaclk<p class="- topic/p ">You can connect a Rechargeable Battery Pack here
+                        (sold separately) for longer play.</p></li>
+                <li class="- topic/li ">Game Pak slot<p class="- topic/p ">Insert the Nintendo GAME BOY Game Pak here. (See page 7 for
+                        instructions on inserting Game Pak)</p></li>
+                <li class="- topic/li ">Extension connector (EXT CONNECTOR<p class="- topic/p ">Connects to other GAME BOY. To play a
+                        2-player game, use your fingernail to carefully remove the connector cover
+                        and then connect a Video Link cable to another GAME BOY.</p></li>
+                <li class="- topic/li ">Volume dial (VOL)<p class="- topic/p ">Adjust the sound volume. Rotate the dial upwards to increse
+                        the colume; rotate downwards to decrease the volume.</p></li>
+                <li class="- topic/li ">Battery light (BATTERY)<p class="- topic/p ">Lights up to show the power level of the batteries
+                        when the power switch is turned ON. Replace the batteries if the red light
+                        gets dim. (See page 6)</p></li>
+                <li class="- topic/li ">Contrast adjustment (CONTRAST)<p class="- topic/p ">Adjusts the contrast of the display. (Rotate
+                        the dial upwards for a lighter display. Rotate downwards for a darker
+                        display. )</p></li>
+                <li class="- topic/li ">Display<p class="- topic/p ">A monochrome liquid crystal display.</p></li>
+                <li class="- topic/li ">Battery Cover<p class="- topic/p ">Remove the cover to replace the batteries. (See page
+                    6.)</p></li>
+                <li class="- topic/li ">Headphone jack (PHONES)<p class="- topic/p ">Connect the stereo headphones that come with the GAME
+                        BOY to enjoy the impressive sounds of games without disturbing others around
+                        you.</p></li>
+                <li class="- topic/li ">Speaker<p class="- topic/p ">A small built-in external speaker. It will turn on automatically if
+                        the headphones are not plugged in to the headphones jack.</p></li>
+                <li class="- topic/li ">Operation buttons<p class="- topic/p ">The controls for playing games. (See game manuals for button
+                        functions.)</p></li>
+            </ol>
+        </section>
+    </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="game_boy_features" oid="game_boy_features" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">GAME BOY Features</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <fig class="- topic/fig " id="unique_3_Connect_42_fig_ns2_ttr_rvb" nd:nd-id="fig_ns2_ttr_rvb"><title class="- topic/title ">GAME BOY Features</title><image class="- topic/image " href="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/gameboy-manual-images/gameboy-features.png" id="unique_3_Connect_42_image_os2_ttr_rvb" nd:nd-id="image_os2_ttr_rvb" placement="inline">
+                <alt class="- topic/alt ">GAME BOY hand held game console diagram</alt>
+            </image></fig>
+        <p class="- topic/p "/>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="description_of_features" oid="description_of_features" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Description of Features</ph></title>
+    <shortdesc class="- topic/shortdesc ">List of features for the GAME BOY</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <section class="- topic/section " id="unique_4_Connect_42_section_dvn_3vr_rvb" nd:nd-id="section_dvn_3vr_rvb">
+            <ol class="- topic/ol " id="unique_4_Connect_42_ol_rgq_zvr_rvb" nd:nd-id="ol_rgq_zvr_rvb">
+                <li class="- topic/li ">Power Switch (POWER)<p class="- topic/p ">Slide the switch to the right to turn ON the power.
+                        </p><p class="- topic/p ">(Caution: Don't switch if ON before inserting a Game Pack.)</p></li>
+                <li class="- topic/li ">External power supply jaclk<p class="- topic/p ">You can connect a Rechargeable Battery Pack here
+                        (sold separately) for longer play.</p></li>
+                <li class="- topic/li ">Game Pak slot<p class="- topic/p ">Insert the Nintendo GAME BOY Game Pak here. (See page 7 for
+                        instructions on inserting Game Pak)</p></li>
+                <li class="- topic/li ">Extension connector (EXT CONNECTOR<p class="- topic/p ">Connects to other GAME BOY. To play a
+                        2-player game, use your fingernail to carefully remove the connector cover
+                        and then connect a Video Link cable to another GAME BOY.</p></li>
+                <li class="- topic/li ">Volume dial (VOL)<p class="- topic/p ">Adjust the sound volume. Rotate the dial upwards to increse
+                        the colume; rotate downwards to decrease the volume.</p></li>
+                <li class="- topic/li ">Battery light (BATTERY)<p class="- topic/p ">Lights up to show the power level of the batteries
+                        when the power switch is turned ON. Replace the batteries if the red light
+                        gets dim. (See page 6)</p></li>
+                <li class="- topic/li ">Contrast adjustment (CONTRAST)<p class="- topic/p ">Adjusts the contrast of the display. (Rotate
+                        the dial upwards for a lighter display. Rotate downwards for a darker
+                        display. )</p></li>
+                <li class="- topic/li ">Display<p class="- topic/p ">A monochrome liquid crystal display.</p></li>
+                <li class="- topic/li ">Battery Cover<p class="- topic/p ">Remove the cover to replace the batteries. (See page
+                    6.)</p></li>
+                <li class="- topic/li ">Headphone jack (PHONES)<p class="- topic/p ">Connect the stereo headphones that come with the GAME
+                        BOY to enjoy the impressive sounds of games without disturbing others around
+                        you.</p></li>
+                <li class="- topic/li ">Speaker<p class="- topic/p ">A small built-in external speaker. It will turn on automatically if
+                        the headphones are not plugged in to the headphones jack.</p></li>
+                <li class="- topic/li ">Operation buttons<p class="- topic/p ">The controls for playing games. (See game manuals for button
+                        functions.)</p></li>
+            </ol>
+        </section>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="how_to_install_batteries" oid="how_to_install_batteries" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Install Batteries</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Remove the cover on the back of the GAME BOY and insert four AA batteries (supplied) as
+            shown in the illustration.</p>
+        <p class="- topic/p ">Fore best results, use alkaline batteris.</p>
+        <p class="- topic/p ">
+            <note class="- topic/note " id="unique_5_Connect_42_note_n1l_svf_svb" nd:nd-id="note_n1l_svf_svb">Do not use nickel-cadmium batteris. Irechargeable type) or
+                carbon type batteries (as these may leask)<ul class="- topic/ul " id="unique_5_Connect_42_ul_ohw_5vf_svb" nd:nd-id="ul_ohw_5vf_svb">
+                    <li class="- topic/li ">Replace the battery cover after installing the batteries.</li>
+                </ul></note>
+        </p>
+        <p class="- topic/p ">
+            <note class="- topic/note " id="unique_5_Connect_42_note_s2s_1wf_svb" nd:nd-id="note_s2s_1wf_svb" type="warning">When the power level of the batteries is low,
+                the battery light will dim and the speaker sound will become weak. If this happens,
+                replace the batteries immediately. Leaving worn batteries in the FAME BOY may result
+                in damage.</note>
+        </p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="how_to_use_the_game_boy" oid="how_to_use_the_game_boy" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Use the GAME BOY</ph></title>
+    <shortdesc class="- topic/shortdesc ">Instrcuctions for operating GAME BOY.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <ol class="operlist" id="unique_6_Connect_42_ol_o1c_lwf_svb" nd:nd-id="ol_o1c_lwf_svb">
+            <li class="- topic/li ">Insert any NINTENDO GAME BOY Game Pak into the Game Pak slot in the back of the GAME
+                BOY body. <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Make sure that the side with the label faces up.</b> (See
+                    illustration) </p><p class="- topic/p ">Caution: Inspect the Game Pak connector for foreign
+                    material before inserting it into the slot.</p></li>
+            <li class="- topic/li ">Slide the power switch to the ON poistion.</li>
+            <li class="- topic/li ">The monitor will display "Nintendo C. " It will then change to the display for the
+                game that you have inserted. Follow the instructions for the Game Pak you are
+                using.</li>
+            <li class="- topic/li ">If the screen remains blank even though the switch is turned to the "ON" position
+                after the Game Pak is inserted, please adjust the Contrast Dial.</li>
+            <li class="- topic/li ">To remove the Game Pak after playing, turn the power OFF and slide the Game Pak
+                upwards using both thumbs as shown in the illustration.<p class="- topic/p ">(Game Pak cannot be taken
+                    out when the power is ON.)<note class="- topic/note " id="unique_6_Connect_42_note_xtt_tjb_tvb" nd:nd-id="note_xtt_tjb_tvb" type="caution">Be sure to
+                        store the Game Paks in their cases for protection when not in
+                    use.</note></p></li>
+        </ol>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="how_to_use_the_video_link_cable" oid="how_to_use_the_video_link_cable" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Use the Video Link cable</ph></title>
+    <shortdesc class="- topic/shortdesc ">How to use the Video Link cable for the GAME BOY.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <ul class="- topic/ul " id="unique_7_Connect_42_ul_l1m_lyf_svb" nd:nd-id="ul_l1m_lyf_svb">
+            <li class="- topic/li ">Remove the Extension connector cover (use your fingernail)</li>
+            <li class="- topic/li ">Insert the Video Link cable plugs into each of the Game Boys, turn the Power Switch
+                to the "ON" position on both units.</li>
+        </ul>
+        <p class="- topic/p ">Things to Remember (Cautions):<ul class="- topic/ul " id="unique_7_Connect_42_ul_rrc_ryf_svb" nd:nd-id="ul_rrc_ryf_svb">
+                <li class="- topic/li ">Turn the switch to the "ON" position only after connecting the Video
+                    LinkTM
+                    cable plugs to the Game Boy body.</li>
+                <li class="- topic/li ">Only software with the 2-player option should be used.</li>
+                <li class="- topic/li ">Do not insert different games in the interconnected Game Boys.</li>
+                <li class="- topic/li ">Always replace the extension connector cover when you are not using the Video
+                    LinkTM
+                    cab;e.</li>
+            </ul></p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="things_to_remember_cautions" oid="things_to_remember_cautions" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Things to Remember (Cautions)</ph></title>
+    <shortdesc class="- topic/shortdesc ">Additonal cautions when operating and handling the GAME BOY.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <ol class="- topic/ol " id="unique_8_Connect_42_ol_xmd_gzf_svb" nd:nd-id="ol_xmd_gzf_svb">
+            <li class="- topic/li ">Insert Game Pak firmly but take care not to exert undue force on the GAME BOY
+                    body.<p class="- topic/p ">Keep Game Paks stored in their cases for thei protection when not in
+                    use.</p></li>
+            <li class="- topic/li ">Before inserting and removing Game Pak, make sure that the power is OFF. (Do not
+                unneccisarily turn the power ON and OFF. As this will shorten the life of your
+                batteries.)</li>
+            <li class="- topic/li ">Insert only NINTENDO GAME BOY Game Paks into the Game Pak slot.</li>
+            <li class="- topic/li ">Don't touch the terminals and connectors on the FAME BOY bosy or Game Pak. Take
+                special care in preventing dust from getting inside the Game Pak slot. Inspect the
+                GAME PAK connector for foreign material before inserting it into the Game Pak
+                slot.</li>
+            <li class="- topic/li ">Never dissassemble or attempt repair to the GAME BOY and its accessories. This will
+                void your warranty.</li>
+            <li class="- topic/li ">Precision electrical parrts are used in the GAME BOY.<p class="- topic/p ">Dont subject the GAME BOY to
+                    strong shock by striking or dropping it,</p></li>
+        </ol>
+    </conbody>
+</concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_9" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="section_2" oid="section_2" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">SECTION 2</ph></title>
+    <shortdesc class="- topic/shortdesc ">What To Do If The GAME BOY Does Not Work</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="what_to_do_if_the_game_boy_does_not_work" oid="what_to_do_if_the_game_boy_does_not_work" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">(Before You Call For Assistance)</ph></title>
+    <shortdesc class="- topic/shortdesc ">(Before You Call For Assistance)</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+        <simpletable class="- topic/simpletable " frame="all" id="unique_10_Connect_42_simpletable_lwk_p33_tvb" nd:nd-id="simpletable_lwk_p33_tvb" relcolwidth="1* 1*">
+            <sthead class="- topic/sthead ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">Sympton</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">Remedy</stentry>
+            </sthead>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">The power cannot be turned ON.</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">Check the Game Pak is set properly in place.</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3">The red battery light does not work even when the power is turned ON with
+                    the Game Pak inserted.</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3">Check that the batteries are set in place. If the light does not work after
+                    checcking this, replace the batteries.</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4">There is nothing on the display or only horizontal lines appear when the
+                    power is turned ON and the battery light is ON.</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4">
+                    <ul class="- topic/ul " id="unique_10_Connect_42_ul_knk_y33_tvb" nd:nd-id="ul_knk_y33_tvb">
+                        <li class="- topic/li ">Turn OFF the power, wait a while and turn it ON again.</li>
+                        <li class="- topic/li ">Adjust the contrast.</li>
+                        <li class="- topic/li ">Check that the Game Pak is inserted properly.</li>
+                    </ul>
+                </stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="5">Bi sound can be hears during the game.</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="5">
+                    <ul class="- topic/ul " id="unique_10_Connect_42_ul_qrl_cj3_tvb" nd:nd-id="ul_qrl_cj3_tvb">
+                        <li class="- topic/li ">Check that the stereo headphones are disconnected.</li>
+                        <li class="- topic/li ">Adjust the sound volume.</li>
+                    </ul>
+                </stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="6">The display is hard to see.</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="6">Replace the batteries.<p class="- topic/p ">(Use in a room with more light.</p></stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="7">The display is black.</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="7">Adjust the contrast.</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="8"/>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="8"/>
+            </strow>
+        </simpletable>
+        <p class="- topic/p ">*If the machine still does not work, please call the Nintendo Consumer "Hotline" at
+            1-800-255-3700</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="specifications" oid="specifications" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Specifications</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <simpletable class="- topic/simpletable " frame="all" id="unique_11_Connect_42_simpletable_omb_sj3_tvb" nd:nd-id="simpletable_omb_sj3_tvb" relcolwidth="1* 1*">
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">Model</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">DMG - 01</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">Power supply</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">
+                    <p class="- topic/p ">Four AA Batteries</p>
+                    <p class="- topic/p ">or a Rechargeable Battery Pack (DMG-03-USA)</p>
+                </stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3">Power consumption</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3">approx. 700mW (differs according to Game Pak used)</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4">LSI</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4">
+                    <p class="- topic/p ">CPU : custom 8-bit C-MOS x 1</p>
+                    <p class="- topic/p ">RAM : 64-Kbit static RAM x 2</p>
+                </stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="5">Dimensions (W x L x T)</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="5">90mm x 148mm x 32mm / 3.5 x 5.8 x 1.3 (inch)</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="6">Weight</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="6">approx. 300g (batteris included)</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="7">Sound output</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="7">
+                    <p class="- topic/p ">Speaker
+                        (8omega)
+                        10mW</p>
+                    <p class="- topic/p ">Headphones
+                        (16omega)
+                        2mW</p>
+                </stentry>
+            </strow>
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="8">Display</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="8">STN type dot matrix LCD</stentry>
+            </strow>
+        </simpletable>
+        <p class="- topic/p ">Battery life : Four AA size batteris can be used for about 15hours. However, this may
+            differ depending on Gamr Pak used and temperature.</p>
+        <p class="- topic/p ">*Specifications are subject to change without notice in the interest of product
+            improvement.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="untitled1" oid="untitled1" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">COMPLIANCE WITH FCC REGULATIONS</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">This product gnerates and uses radio frequency energy an, if not installed and used in
+            strict accoirdance with manfactuers instructions, it may cause interference with radio
+            and television reception. This product complies with the limits for a Class B computing
+            device in accordance with the specifications in Subpart J of part 15 of the FCC rules,
+            which are designed to provide reasonable protection against such interference when
+            operated in a commercial environment. However, there is no guarantee that interference
+            will not occur in a residential area or elsewhere in which event the user may be
+            required to undertake corrective measures at his own expense.</p>
+        <p class="- topic/p ">If necessary, the user should consult the dealer or an experienced radio-television
+            technician for additional suggestions. The following booklet may also be helpful: "How
+            to Identify and Resolve Radio-TV Interference Problems." This booklet is available from
+            the U.S. Government Printing Office, Washington D.C. 50402, Stock No.
+            004-000-00345-4.</p>
+        <p class="- topic/p ">THIS DIGITAL APPARATUS DOES NOT EXCEED THE CLASS B LIMITS FOR RADIO NOISE EMISSIONS FROM
+            DIGITAL APPARATUS AS SET OUT IN THE RADIO INTERFERENCE REGULATIONS OF THE CANADIAN
+            DEPARTMENT OF COMMUNICATIONS.</p>
+    </conbody>
+</concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_13" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="section_3" oid="section_3" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">SECTION 3</ph></title>
+    <shortdesc class="- topic/shortdesc ">Accessories</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="accessories" oid="accessories" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Accessories</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Rechargeable Battery Pack (DMG-03-USA)</p>
+        <p class="- topic/p ">The power will last for about 10 hours once recharged from a power outlet. (Also useable
+            as an AC adapter)<note class="- topic/note " id="unique_14_Connect_42_note_en4_lf4_tvb" nd:nd-id="note_en4_lf4_tvb" type="caution">Use only Nintendo specified GAME BOY
+                products and accessories.</note></p>
+    </conbody>
+</concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_15" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="_90_day_limited_warranty" oid="_90_day_limited_warranty" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">1. 90-DAY LIMITED WARRANTY</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">90-DAY LIMITED WARRANTY NINTENDO GAME BOY</p>
+        <p class="- topic/p ">TO VALIDATE THE FOLLOWING 90-DAY LIMITED WARRANTY, YOUR WARRANTY CARD AND SALES SLIP OR
+            PROOF OF PURCHASE, MUST BE COMPLETED AND RETURNED TO NINTENDO WITHIN 10 DAYS AFTER DATE
+            OF PURCHASE. </p>
+        <p class="- topic/p ">90-DAY LIMITED WARRANTY </p>
+        <p class="- topic/p ">Nintendo warrants to the original consumer purchaser that this GAME BOY shall be free
+            from defects in material and workmanship for a period of 90 days from the date of
+            purchase. If a defect covered by this warranty occurs during this 90-day warranty
+            period, Nintendo will repair or replace the defective GAME BOY at its option, free of
+            charge. To receive this warranty service : <ol class="- topic/ol " id="unique_15_Connect_42_ol_vxj_2g4_tvb" nd:nd-id="ol_vxj_2g4_tvb">
+                <li class="- topic/li "> DO NOT return your defective merchandise to the retailer. </li>
+                <li class="- topic/li ">Notify the Nintendo consumer Service Department of the problem requiring
+                    warranty service by calling 1-800-255-3700. Our Consumer Service Department is
+                    in operation from 6:00 A.M. to 6:00 P.M. Pacific time, Monday through Saturday.
+                    PLEASE DO NOT send any defective items to Nintendo before calling the Nintendo
+                    Consumer Service Department.</li>
+                <li class="- topic/li ">If the Nintendo Service Representative is unable to solve the problem by phone,
+                    you will be provided with a Return Authorization number. You MUST record this
+                    number on the outside packaging of your defective components, and return it</li>
+            </ol></p>
+        <p class="- topic/p ">15 FREIGHT PREPAID, AND INSURED FOR LOSS OR DAMAGE TO: <simpletable class="- topic/simpletable " frame="all" id="unique_15_Connect_42_simpletable_unb_4g4_tvb" nd:nd-id="simpletable_unb_4g4_tvb" relcolwidth="1* 1*">
+                <strow class="- topic/strow ">
+                    <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">
+                        <p class="- topic/p ">In the United States:</p>
+                        <p class="- topic/p "> Nintendo of America Inc.</p>
+                        <p class="- topic/p ">Consumer Service Department</p>
+                        <p class="- topic/p ">4820-150th Avenue N. E. Redmond WA 98052</p>
+                        <p class="- topic/p ">RA#______________</p>
+                        <p class="- topic/p "/>
+                    </stentry>
+                    <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">
+                        <p class="- topic/p "> In Canada: </p>
+                        <p class="- topic/p ">Nintendo of Canada Ltd.</p>
+                        <p class="- topic/p ">110-13480 Crestwood Place</p>
+                        <p class="- topic/p ">Richmond BC V6V2J9</p>
+                        <p class="- topic/p ">RA#______________</p>
+                    </stentry>
+                </strow>
+            </simpletable></p>
+        <p class="- topic/p ">This warranty shall not apply if the GAME BOY has been damaged by negligence, accident,
+            unreasonable use, commercial use, modification, tampering, or by other causes unrelated
+            to defective materials or workmanship. This warranty shall not apply if the GAME BOY
+            serial number has been altered, defaced, or removed. WARRANTIES LIMITATIONS </p>
+        <p class="- topic/p ">ANY APPLICABLE IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS
+            FOR A PARTICULAR PURPOSE, ARE HEREBY LIMITED TO NINETY DAYS FROM THE DATE OF PURCHASE
+            AND ARE SUBJECT TO THE CONDITIONS SET FORTH HEREIN. IN NO EVENT SHALL NINTENDO BE LIABLE
+            FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES RESULTING FROM THE BREACH OF ANY EXPRESS OF
+            IMPLIED WARRANTIES. </p>
+        <p class="- topic/p ">The provisions of this warranty are valid in the United States and Canada only. Some
+            states/provinces do not allow limitations on how long an implied warranty lasts or
+            exclusion of consequential or incidental damages, so the above limitation or exclusion
+            may not apply to you. This warranty gives you specific legal rights, and you may also
+            have other rights which vary between states/provinces. </p>
+        <p class="- topic/p ">*Components covered under this warranty are: GAME BOY AND STEREO HEAD PHONES - BATTERIES
+            ARE NOT COVERED UNDER THIS WARRANTY.</p>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_16" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="repair_service_after_warranty" oid="repair_service_after_warranty" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">2. REPAIR/SERVICE AFTER WARRANTY</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">If your GAME BOY component develops a problem requiring service after the 90-day warranty
+            period, contact the Nintendo Consumer Service Department at 1-800-255-3700. If the
+            Nintendo Service Representative is unable to solve the problem over the phone, you will
+            be advised of the approximate cost to repair the component (s) and provided with a
+            Return Authorization number. You MUST then record this number on the outside packaging
+            of the defective component (s) and return the defective merchandise, FREIGHT PREPAID,
+            AND INSURED FOR LOSS OR DAMAGE TO:</p>
+        <simpletable class="- topic/simpletable " frame="all" id="unique_16_Connect_42_simpletable_ks5_4y4_tvb" nd:nd-id="simpletable_ks5_4y4_tvb" relcolwidth="1* 1*">
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">
+                    <p class="- topic/p ">In the United States:</p>
+                    <p class="- topic/p ">Nintendo of America Inc. </p>
+                    <p class="- topic/p ">NES Consumer Service Department</p>
+                    <p class="- topic/p ">4820-150th Avenue N. E. </p>
+                    <p class="- topic/p ">Redmond, WA 98052</p>
+                    <p class="- topic/p ">RA#______________</p>
+                </stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">
+                    <p class="- topic/p ">In Canada:</p>
+                    <p class="- topic/p ">Nintendo of Canada Ltd.</p>
+                    <p class="- topic/p ">110-13480 Crestwood Place</p>
+                    <p class="- topic/p ">Richmond BC V6V2J9 </p>
+                    <p class="- topic/p ">RA#______________</p>
+                </stentry>
+            </strow>
+        </simpletable>
+        <p class="- topic/p ">Please enclose a money order payable to Nintendo for the cost quoted you. Repairs may
+            also be charged on a VISA or MASTERCARD credit card.</p>
+        <p class="- topic/p ">If, after personal inspection, the Nintendo Service Technician determines your GAME BOY
+            cannot be repaired, it will be returned and your payment refunded.</p>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_17" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="consumer_parts_list_and_order_form" oid="consumer_parts_list_and_order_form" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">CONSUMER PARTS LIST AND ORDER FORM</ph></title>
+    <shortdesc class="- topic/shortdesc ">GAME BOY CONSUMER PARTS LIST &amp; ORDER FORM</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+        <table class="- topic/table " colsep="0" frame="all" id="unique_17_Connect_42_table_vny_1kp_tvb" nd:nd-id="table_vny_1kp_tvb" rowsep="0">
+            <tgroup class="- topic/tgroup " cols="5">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colsep="1" colwidth="1.27*" rowsep="1" xtrc="colspec:1;10:90" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/consumer_parts_list_and_order_form.dita" style="width:12.0265%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="4.07*" xtrc="colspec:2;11:68" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/consumer_parts_list_and_order_form.dita" style="width:38.5417%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;12:65" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/consumer_parts_list_and_order_form.dita" style="width:9.4697%;"/>
+                <colspec class="- topic/colspec " colname="col4" colnum="4" colsep="1" colwidth="2.11*" rowsep="1" xtrc="colspec:4;13:90" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/consumer_parts_list_and_order_form.dita" style="width:19.9811%;"/>
+                <colspec class="- topic/colspec " colname="col5" colnum="5" colsep="1" colwidth="2.11*" rowsep="1" xtrc="colspec:5;14:90" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/consumer_parts_list_and_order_form.dita" style="width:19.9811%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Nintendo Part No.</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" rowsep="1">Part Name</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" rowsep="1">Price</entry>
+                        <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="1">Quantity</entry>
+                        <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="1">Amount of Purchase</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">
+                            <p class="- topic/p ">18097</p>
+                            <p class="- topic/p ">18098</p>
+                            <p class="- topic/p ">18099</p>
+                            <p class="- topic/p ">18100</p>
+                            <p class="- topic/p ">18101</p>
+                            <p class="- topic/p ">18102</p>
+                            <p class="- topic/p ">18103</p>
+                            <p class="- topic/p ">XXX</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" rowsep="1">Stereo Headphones<p class="- topic/p ">Battery Cover</p><p class="- topic/p ">Connector
+                                Cover</p><p class="- topic/p ">Video Link
+                                TM</p><p class="- topic/p ">*Power
+                                Cord</p><p class="- topic/p ">Game Pak Case</p><p class="- topic/p ">GameBoy Manual</p><p class="- topic/p ">*Game Pak Manual
+                                (Specify Name)</p></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" rowsep="1">
+                            <p class="- topic/p ">$8.50</p>
+                            <p class="- topic/p ">1.00</p>
+                            <p class="- topic/p ">.50</p>
+                            <p class="- topic/p ">8.50</p>
+                            <p class="- topic/p ">5.00</p>
+                            <p class="- topic/p ">1.00</p>
+                            <p class="- topic/p ">2.00</p>
+                            <p class="- topic/p ">1.25</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="2"/>
+                        <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="2"/>
+                    </row>
+                    <row class="- topic/row " rowsep="1">
+                        <entry align="right" class="- topic/entry " colname="col1" colsep="1" dita-ot:morecols="3" dita-ot:x="1" dita-ot:y="3" nameend="col4" namest="col1" rowsep="1" colspan="4">SUB
+                            TOTAL</entry>
+                        <entry class="- topic/entry " colname="col5" colsep="1" dita-ot:x="5" dita-ot:y="3" rowsep="1"/>
+                    </row>
+                    <row class="- topic/row " rowsep="1">
+                        <entry align="right" class="- topic/entry " colname="col1" colsep="1" dita-ot:morecols="3" dita-ot:x="1" dita-ot:y="4" nameend="col4" namest="col1" rowsep="1" colspan="4">WASHINGTON STATE RESIDENTS ADD 8.1% SALES TAX<p class="- topic/p ">BRITISH COLUMBIA
+                                RESIDENTS ADD 6% SALES TAX</p></entry>
+                        <entry class="- topic/entry " colname="col5" colsep="1" dita-ot:x="5" dita-ot:y="4" rowsep="1"/>
+                    </row>
+                    <row class="- topic/row " rowsep="1">
+                        <entry align="right" class="- topic/entry " colname="col1" colsep="1" dita-ot:morecols="3" dita-ot:x="1" dita-ot:y="5" nameend="col4" namest="col1" rowsep="1" colspan="4">POSTAGE
+                            &amp; HANDLING ($2 For Orders Of $4 or more,
+                            50c
+                            For Orders of Less Than $4)</entry>
+                        <entry class="- topic/entry " colname="col5" colsep="1" dita-ot:x="5" dita-ot:y="5" rowsep="1"/>
+                    </row>
+                    <row class="- topic/row " rowsep="1">
+                        <entry align="right" class="- topic/entry " colname="col1" colsep="1" dita-ot:morecols="3" dita-ot:x="1" dita-ot:y="6" nameend="col4" namest="col1" rowsep="1" colspan="4">TOTAL
+                            AMOUNT DUE</entry>
+                        <entry class="- topic/entry " colname="col5" colsep="1" dita-ot:x="5" dita-ot:y="6" rowsep="1"/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p class="- topic/p "><u class="+ topic/ph hi-d/u ">To Order By Phone (Requires VISA or MASTERCARD ONLY. NO C.O.D. Orders)</u><table class="- topic/table " colsep="0" frame="none" id="unique_17_Connect_42_table_o4g_xnp_tvb" nd:nd-id="table_o4g_xnp_tvb" rowsep="0">
+                <tgroup class="- topic/tgroup " cols="2">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:6;83:69" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/consumer_parts_list_and_order_form.dita" style="width:35.2113%;"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.84*" xtrc="colspec:7;84:72" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/consumer_parts_list_and_order_form.dita" style="width:64.7887%;"/>
+                    <tbody class="- topic/tbody ">
+                        <row class="- topic/row ">
+                            <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" valign="top">Call: 1-800-255-3700</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">6:00 A.M. to 600 P.M.<p class="- topic/p ">Pacific Time (MON. to SAT.)</p></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table></p>
+        <p class="- topic/p ">Please have your VISA or MASTERCARD card number and expiration date ready.</p>
+        <p class="- topic/p "><u class="+ topic/ph hi-d/u ">To Order By Mail</u></p>
+        <ol class="- topic/ol " id="unique_17_Connect_42_ol_qzy_bwp_tvb" nd:nd-id="ol_qzy_bwp_tvb">
+            <li class="- topic/li ">Please complete the following:<table class="- topic/table " colsep="0" frame="none" id="unique_17_Connect_42_table_cpb_2wp_tvb" nd:nd-id="table_cpb_2wp_tvb" rowsep="0">
+                    <tgroup class="- topic/tgroup " cols="3">
+                        <colspec align="left" class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:8;99:86" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/consumer_parts_list_and_order_form.dita" style="width:33.3333%;"/>
+                        <colspec align="left" class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:9;100:91" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/consumer_parts_list_and_order_form.dita" style="width:33.3333%;"/>
+                        <colspec align="left" class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:10;101:86" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/consumer_parts_list_and_order_form.dita" style="width:33.3333%;"/>
+                        <tbody class="- topic/tbody ">
+                            <row class="- topic/row " valign="top">
+                                <entry align="left" class="- topic/entry " colname="col1" dita-ot:morecols="1" dita-ot:x="1" dita-ot:y="1" nameend="col2" namest="col1" colspan="2">Name________________________________________________________</entry>
+                                <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" valign="top">Phone:
+                                    (___)_____________________</entry>
+                            </row>
+                            <row class="- topic/row " valign="top">
+                                <entry align="left" class="- topic/entry " colname="col1" dita-ot:morecols="2" dita-ot:x="1" dita-ot:y="2" nameend="col3" namest="col1" colspan="3">Street
+                                    Address:_________________________________________________________________________________</entry>
+                            </row>
+                            <row class="- topic/row " valign="top">
+                                <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">City:_________________________</entry>
+                                <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">State:_______________________</entry>
+                                <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">Zip:____________________________</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table></li>
+            <li class="- topic/li "><u class="+ topic/ph hi-d/u ">Enclose Money Order or Credit Card Authorization for total amount due.</u><p class="- topic/p ">If
+                    paying by VISA or MASTERCARD:<table class="- topic/table " colsep="0" frame="none" id="unique_17_Connect_42_table_tn3_bxp_tvb" nd:nd-id="table_tn3_bxp_tvb" rowsep="0">
+                        <tgroup class="- topic/tgroup " cols="3">
+                            <colspec align="left" class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:11;125:90" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/consumer_parts_list_and_order_form.dita" style="width:33.3333%;"/>
+                            <colspec align="left" class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:12;126:90" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/consumer_parts_list_and_order_form.dita" style="width:33.3333%;"/>
+                            <colspec align="left" class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:13;127:90" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/consumer_parts_list_and_order_form.dita" style="width:33.3333%;"/>
+                            <tbody class="- topic/tbody ">
+                                <row class="- topic/row " valign="top">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:morecols="1" dita-ot:x="1" dita-ot:y="1" nameend="col2" namest="col1" colspan="2">Please charge total amount due
+                                        of $________________________________</entry>
+                                    <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">to my:</entry>
+                                </row>
+                                <row class="- topic/row " valign="top">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">(VISA or MC?)________________</entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Card No. ___________________</entry>
+                                    <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">Expiration Date_____________</entry>
+                                </row>
+                                <row class="- topic/row " valign="top">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:morecols="1" dita-ot:x="1" dita-ot:y="3" nameend="col2" namest="col1" colspan="2">Name on Card
+                                        (Print)_________________________________________</entry>
+                                    <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">Signed____________________</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table></p></li>
+            <li class="- topic/li ">Mail to: <table class="- topic/table " colsep="0" frame="none" id="unique_17_Connect_42_table_bpy_rxp_tvb" nd:nd-id="table_bpy_rxp_tvb" rowsep="0">
+                    <tgroup class="- topic/tgroup " cols="2">
+                        <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:14;149:73" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/consumer_parts_list_and_order_form.dita" style="width:50%;"/>
+                        <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:15;150:73" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/consumer_parts_list_and_order_form.dita" style="width:50%;"/>
+                        <tbody class="- topic/tbody ">
+                            <row class="- topic/row ">
+                                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">
+                                    <p class="- topic/p ">to: In the United States:</p>
+                                    <p class="- topic/p ">Nintendo of America Inc.</p>
+                                    <p class="- topic/p ">4820 150th Avenue N.E.</p>
+                                    <p class="- topic/p "> Redmond, WA 98052.</p>
+                                </entry>
+                                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">
+                                    <p class="- topic/p ">In Canada:</p>
+                                    <p class="- topic/p ">Nintendo of Canada Ltd.</p>
+                                    <p class="- topic/p ">110-13480 Crestwood Place</p>
+                                    <p class="- topic/p "> Richmond BC V6V2J9</p>
+                                </entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table><p class="- topic/p ">Allow 4-6 weeks for delivery. We cannot accept cash, stamps, or C.O.D.
+                    orders. Prices are applicable within the United States and Canada only and are
+                    subject to change without notice.</p><note class="- topic/note " id="unique_17_Connect_42_note_ljv_nyp_tvb" nd:nd-id="note_ljv_nyp_tvb">*Power Cord;
+                    Rechargeable Battery Pack replacement part<p class="- topic/p ">**Game Pak Manual;</p><p class="- topic/p ">Nintendo
+                        cannot supply Game Manuals for 'Licensed' games. These games can be
+                        identified by the words 'Licensed by Nintendo' on the packaging. Please
+                        contact the Game Licensee (whose name is also on the package) directly for
+                        these items. (You may call Nintendo at 1-800-255-3700 for Licensee's address
+                        and telephone number.)</p></note></li>
+        </ol>
+    </conbody>
+</concept></bookmap>
