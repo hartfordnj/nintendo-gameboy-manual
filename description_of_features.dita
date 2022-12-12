@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<?xml-stylesheet href="manual.css"?>
 <concept id="description_of_features">
     <title>Description of Features</title>
     <shortdesc>List of features for the GAME BOY</shortdesc>
     <conbody>
         <section id="section_dvn_3vr_rvb">
             <ol id="ol_rgq_zvr_rvb">
-                <li>Power Switch (POWER)<p>Slide the switch to the right to turn ON the power.
+                    <li>Power Switch (POWER)<p>Slide the switch to the right to turn ON the power.
                         </p><p>(Caution: Don't switch if ON before inserting a Game Pack.)</p></li>
                 <li>External power supply jaclk<p>You can connect a Rechargeable Battery Pack here
                         (sold separately) for longer play.</p></li>

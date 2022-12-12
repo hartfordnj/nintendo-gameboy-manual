@@ -13,7 +13,10 @@
             </fig>
             <ol id="ol_rgq_zvr_rvb">
                 <li>Power Switch (POWER)<p>Slide the switch to the right to turn ON the power.
-                        </p><p>(Caution: Don't switch if ON before inserting a Game Pack.)</p></li>
+                                                </p><p>(Caution: Don't switch if ON before inserting
+                                                a Game Pack.)<image placement="break"
+                                                  href="gameboy-manual-images/gameboy-onoff.png"
+                                                  align="center" id="image_yjn_4f1_vvb"/></p></li>
                 <li>External power supply jaclk<p>You can connect a Rechargeable Battery Pack here
                         (sold separately) for longer play.</p></li>
                 <li>Game Pak slot<p>Insert the Nintendo GAME BOY Game Pak here. (See page 7 for
@@ -22,14 +25,22 @@
                         2-player game, use your fingernail to carefully remove the connector cover
                         and then connect a Video Link cable to another GAME BOY.</p></li>
                 <li>Volume dial (VOL)<p>Adjust the sound volume. Rotate the dial upwards to increse
-                        the colume; rotate downwards to decrease the volume.</p></li>
+                                                the colume; rotate downwards to decrease the
+                                                  volume.<image placement="break"
+                                                  href="gameboy-manual-images/gameboy-345.png"
+                                                  align="center" id="image_gt2_vf1_vvb"/></p></li>
                 <li>Battery light (BATTERY)<p>Lights up to show the power level of the batteries
-                        when the power switch is turned ON. Replace the batteries if the red light
-                        gets dim. (See page 6)</p></li>
+                                                when the power switch is turned ON. Replace the
+                                                batteries if the red light gets dim. (See page
+                                                  6)<image placement="break"
+                                                  href="gameboy-manual-images/gameboy-power.png"
+                                                  align="center" id="image_xmv_1g1_vvb"/></p></li>
                 <li>Contrast adjustment (CONTRAST)<p>Adjusts the contrast of the display. (Rotate
                         the dial upwards for a lighter display. Rotate downwards for a darker
                         display. )</p></li>
-                <li>Display<p>A monochrome liquid crystal display.</p></li>
+                <li>Display<p>A monochrome liquid crystal display.<image placement="break"
+                                                  href="gameboy-manual-images/gameboy-78.png"
+                                                  align="center" id="image_an3_gg1_vvb"/></p></li>
                 <li>Battery Cover<p>Remove the cover to replace the batteries. (See page
                     6.)</p></li>
                 <li>Headphone jack (PHONES)<p>Connect the stereo headphones that come with the GAME
@@ -38,7 +49,9 @@
                 <li>Speaker<p>A small built-in external speaker. It will turn on automatically if
                         the headphones are not plugged in to the headphones jack.</p></li>
                 <li>Operation buttons<p>The controls for playing games. (See game manuals for button
-                        functions.)</p></li>
+                                                  functions.)<image placement="break"
+                                                  href="gameboy-manual-images/gameboy-101112.png"
+                                                  align="center" id="image_yps_lg1_vvb"/></p></li>
             </ol>
         </section>
     </refbody>

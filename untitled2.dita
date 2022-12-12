@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="untitled2">
+    <title>Preface</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>This is a conversion of an orginal GAME BOY User Manaul into an XML-based PDF. </p>
+        <p>I used Oxygen XML Editor and Canva.com for editing purposes. </p>
+        <p>The github repository for this file can be found here.</p>
+        <p>The GAME BOY User Manual is sourced from <xref href="https://archive.org/" format="html"
+                scope="external">Internet Archive</xref></p>
+        <p> (<xref href="https://archive.org/details/nintendo-game-boy-usa/page/n1/mode/2up"
+                format="html" scope="external"/>)</p>
+        <p>I copied the images (as screenshots) from the manual and touched them up via a premium
+            account on canva.com.</p>
+        <p>I attempted to keep the wording and formatting exactly how it appeared in the orginal
+            manaul but I did reformat a tables. </p>
+    </conbody>
+</concept>

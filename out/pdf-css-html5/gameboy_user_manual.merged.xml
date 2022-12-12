@@ -4,23 +4,43 @@
 <?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
 <?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
 <?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
-<bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map bookmap/bookmap " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (map bookmap) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic xnal-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="bookmap:1;3:10" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/gameboy_user_manual.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><booktitle xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title bookmap/booktitle ">  <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">GameBoy User Manual</mainbooktitle>  </booktitle></oxy:front-page-title></oxy:front-page><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="section_1" oid="section_1" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">SECTION 1</ph></title>
-    <shortdesc class="- topic/shortdesc ">GAME
-        BOYtm
-        Features</shortdesc>
+<bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map bookmap/bookmap " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (map bookmap) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic xnal-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="bookmap:1;3:10" xtrf="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/gameboy_user_manual.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><booktitle xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title bookmap/booktitle ">  <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">GameBoy User Manual</mainbooktitle>  </booktitle></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <booktitle class="- topic/title bookmap/booktitle ">  <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">GameBoy User Manual</mainbooktitle>  </booktitle>
+    <frontmatter class="- map/topicref bookmap/frontmatter "><booklists class="- map/topicref bookmap/booklists "/></frontmatter>
+    <chapter is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="section_1"><resourceid appid="section_1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle "/><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="untitled2"><resourceid appid="untitled2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Preface</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="game_boy_features_0"><resourceid appid="game_boy_features_0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">GAME BOY Features</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="description_of_features"><resourceid appid="description_of_features" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Description of Features</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">List of features for the GAME BOY</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="how_to_install_batteries"><resourceid appid="how_to_install_batteries" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">How to Install Batteries</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="how_to_use_the_game_boy"><resourceid appid="how_to_use_the_game_boy" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">How to Use the GAME BOY</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Instrcuctions for operating GAME BOY.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="how_to_use_the_video_link_cable"><resourceid appid="how_to_use_the_video_link_cable" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">How to Use the Video Link cable</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">How to use the Video Link cable for the GAME BOY.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="things_to_remember_cautions"><resourceid appid="things_to_remember_cautions" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Things to Remember (Cautions)</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Additonal cautions when operating and handling the GAME BOY.</shortdesc></topicmeta></topicref></chapter>
+    <chapter is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="section_2"><resourceid appid="section_2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle "/><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">What To Do If The GAME BOY Does Not Work</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_to_do_if_the_game_boy_does_not_work"><resourceid appid="what_to_do_if_the_game_boy_does_not_work" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">(Before You Call For Assistance)</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">(Before You Call For Assistance)</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="specifications"><resourceid appid="specifications" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Specifications</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="untitled1"><resourceid appid="untitled1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">COMPLIANCE WITH FCC REGULATIONS</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></chapter>
+    <chapter is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="section_3"><resourceid appid="section_3" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">SECTION 3</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Accessories</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_14" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="accessories"><resourceid appid="accessories" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Accessories</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></chapter>
+    <chapter is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_15" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_90_day_limited_warranty"><resourceid appid="_90_day_limited_warranty" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">1. 90-DAY LIMITED WARRANTY</navtitle><?ditaot gentext?></topicmeta></chapter>
+    <chapter is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="repair_service_after_warranty"><resourceid appid="repair_service_after_warranty" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">2. REPAIR/SERVICE AFTER WARRANTY</navtitle><?ditaot gentext?></topicmeta></chapter>
+    <chapter is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_17" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="consumer_parts_list_and_order_form"><resourceid appid="consumer_parts_list_and_order_form" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">CONSUMER PARTS LIST AND ORDER FORM</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">GAME BOY CONSUMER PARTS LIST &amp; ORDER FORM</shortdesc></topicmeta></chapter>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="section_1" oid="section_1" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "/></title>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "/>
+        <image align="center" class="- topic/image " href="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/gameboy-manual-images/gameboy-seal.png" id="unique_1_Connect_42_image_kmb_zcx_tvb" nd:nd-id="image_kmb_zcx_tvb" placement="break" width="625" height="437" scale="125"/>
     </conbody>
-<reference class="- topic/topic       reference/reference " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="game_boy_features_0" oid="game_boy_features_0" specializations="@props/deliveryTarget">
+<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="untitled2" oid="untitled2" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Preface</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">This is a conversion of an orginal GAME BOY User Manaul into an XML-based PDF. </p>
+        <p class="- topic/p ">I used Oxygen XML Editor and Canva.com for editing purposes. </p>
+        <p class="- topic/p ">The github repository for this file can be found here.</p>
+        <p class="- topic/p ">The GAME BOY User Manual is sourced from <xref class="- topic/xref " format="html" href="https://archive.org/" scope="external"><?ditaot usertext?>Internet Archive</xref></p>
+        <p class="- topic/p "> (<xref class="- topic/xref " format="html" href="https://archive.org/details/nintendo-game-boy-usa/page/n1/mode/2up" scope="external"/>)</p>
+        <p class="- topic/p ">I copied the images (as screenshots) from the manual and touched them up via a premium
+            account on canva.com.</p>
+        <p class="- topic/p ">I attempted to keep the wording and formatting exactly how it appeared in the orginal
+            manaul but I did reformat a tables. </p>
+    </conbody>
+</concept><reference class="- topic/topic       reference/reference " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="game_boy_features_0" oid="game_boy_features_0" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">GAME BOY Features</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <refbody class="- topic/body        reference/refbody ">
-        <section class="- topic/section " id="unique_2_Connect_42_section_dvn_3vr_rvb" nd:nd-id="section_dvn_3vr_rvb">
-            <fig class="- topic/fig " id="unique_2_Connect_42_fig_kl5_xvr_rvb" nd:nd-id="fig_kl5_xvr_rvb"><title class="- topic/title ">gameboy features</title><image class="- topic/image " href="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/gameboy-manual-images/gameboy-features.png" id="unique_2_Connect_42_image_ll5_xvr_rvb" nd:nd-id="image_ll5_xvr_rvb" placement="inline">
+        <section class="- topic/section " id="unique_3_Connect_42_section_dvn_3vr_rvb" nd:nd-id="section_dvn_3vr_rvb">
+            <fig class="- topic/fig " id="unique_3_Connect_42_fig_kl5_xvr_rvb" nd:nd-id="fig_kl5_xvr_rvb"><title class="- topic/title ">gameboy features</title><image class="- topic/image " href="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/gameboy-manual-images/gameboy-features.png" id="unique_3_Connect_42_image_ll5_xvr_rvb" nd:nd-id="image_ll5_xvr_rvb" placement="inline">
                     <alt class="- topic/alt ">Figure 1: Numbered Diagram of GAME BOY Features</alt>
                 </image></fig>
-            <ol class="- topic/ol " id="unique_2_Connect_42_ol_rgq_zvr_rvb" nd:nd-id="ol_rgq_zvr_rvb">
+            <ol class="- topic/ol " id="unique_3_Connect_42_ol_rgq_zvr_rvb" nd:nd-id="ol_rgq_zvr_rvb">
                 <li class="- topic/li ">Power Switch (POWER)<p class="- topic/p ">Slide the switch to the right to turn ON the power.
                         </p><p class="- topic/p ">(Caution: Don't switch if ON before inserting a Game Pack.)</p></li>
                 <li class="- topic/li ">External power supply jaclk<p class="- topic/p ">You can connect a Rechargeable Battery Pack here
@@ -51,22 +71,13 @@
             </ol>
         </section>
     </refbody>
-</reference><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="game_boy_features" oid="game_boy_features" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">GAME BOY Features</ph></title>
-    <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
-        <fig class="- topic/fig " id="unique_3_Connect_42_fig_ns2_ttr_rvb" nd:nd-id="fig_ns2_ttr_rvb"><title class="- topic/title ">GAME BOY Features</title><image class="- topic/image " href="file:/C:/Users/TheGi/nintendo-gameboy-manual/nintendo-gameboy-manual/gameboy-manual-images/gameboy-features.png" id="unique_3_Connect_42_image_os2_ttr_rvb" nd:nd-id="image_os2_ttr_rvb" placement="inline">
-                <alt class="- topic/alt ">GAME BOY hand held game console diagram</alt>
-            </image></fig>
-        <p class="- topic/p "/>
-    </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="description_of_features" oid="description_of_features" specializations="@props/deliveryTarget">
+</reference><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="description_of_features" oid="description_of_features" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Description of Features</ph></title>
     <shortdesc class="- topic/shortdesc ">List of features for the GAME BOY</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
         <section class="- topic/section " id="unique_4_Connect_42_section_dvn_3vr_rvb" nd:nd-id="section_dvn_3vr_rvb">
             <ol class="- topic/ol " id="unique_4_Connect_42_ol_rgq_zvr_rvb" nd:nd-id="ol_rgq_zvr_rvb">
-                <li class="- topic/li ">Power Switch (POWER)<p class="- topic/p ">Slide the switch to the right to turn ON the power.
+                    <li class="- topic/li ">Power Switch (POWER)<p class="- topic/p ">Slide the switch to the right to turn ON the power.
                         </p><p class="- topic/p ">(Caution: Don't switch if ON before inserting a Game Pack.)</p></li>
                 <li class="- topic/li ">External power supply jaclk<p class="- topic/p ">You can connect a Rechargeable Battery Pack here
                         (sold separately) for longer play.</p></li>
@@ -102,19 +113,17 @@
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">Remove the cover on the back of the GAME BOY and insert four AA batteries (supplied) as
             shown in the illustration.</p>
-        <p class="- topic/p ">Fore best results, use alkaline batteris.</p>
+        <p class="- topic/p ">For best results, use alkaline batteris.</p>
         <p class="- topic/p ">
             <note class="- topic/note " id="unique_5_Connect_42_note_n1l_svf_svb" nd:nd-id="note_n1l_svf_svb">Do not use nickel-cadmium batteris. Irechargeable type) or
                 carbon type batteries (as these may leask)<ul class="- topic/ul " id="unique_5_Connect_42_ul_ohw_5vf_svb" nd:nd-id="ul_ohw_5vf_svb">
                     <li class="- topic/li ">Replace the battery cover after installing the batteries.</li>
                 </ul></note>
         </p>
-        <p class="- topic/p ">
-            <note class="- topic/note " id="unique_5_Connect_42_note_s2s_1wf_svb" nd:nd-id="note_s2s_1wf_svb" type="warning">When the power level of the batteries is low,
-                the battery light will dim and the speaker sound will become weak. If this happens,
-                replace the batteries immediately. Leaving worn batteries in the FAME BOY may result
-                in damage.</note>
-        </p>
+        <p class="- topic/p "><note class="- topic/note " id="unique_5_Connect_42_note_s2s_1wf_svb" nd:nd-id="note_s2s_1wf_svb" type="warning">When the power level of the
+                batteries is low, the battery light will dim and the speaker sound will become weak.
+                If this happens, replace the batteries immediately. Leaving worn batteries in the
+                GAME BOY may result in damage.</note></p>
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="how_to_use_the_game_boy" oid="how_to_use_the_game_boy" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Use the GAME BOY</ph></title>
@@ -181,7 +190,7 @@
         </ol>
     </conbody>
 </concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_9" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="section_2" oid="section_2" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">SECTION 2</ph></title>
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "/></title>
     <shortdesc class="- topic/shortdesc ">What To Do If The GAME BOY Does Not Work</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p "/>

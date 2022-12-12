@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="section_1">
-    <title>SECTION 1</title>
-    <shortdesc>GAME
-        BOY<?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>tm<?oxy_custom_end?>
-        Features</shortdesc>
+    <title/>
     <conbody>
-        <p></p>
+        <image placement="break" href="gameboy-manual-images/gameboy-seal.png" scale="125"
+            align="center" id="image_kmb_zcx_tvb"/>
     </conbody>
 </concept>
