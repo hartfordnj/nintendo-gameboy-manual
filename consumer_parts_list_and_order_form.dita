@@ -34,10 +34,9 @@
                             <p>XXX</p>
                         </entry>
                         <entry rowsep="1">Stereo Headphones<p>Battery Cover</p><p>Connector
-                                Cover</p><p>Video Link
-                                <?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>TM<?oxy_custom_end?></p><p>*Power
-                                Cord</p><p>Game Pak Case</p><p>GameBoy Manual</p><p>*Game Pak Manual
-                                (Specify Name)</p></entry>
+                                Cover</p><p>Video Link ™</p><p>*Power Cord</p><p>Game Pak
+                                Case</p><p>GameBoy Manual</p><p>*Game Pak Manual (Specify
+                            Name)</p></entry>
                         <entry rowsep="1">
                             <p>$8.50</p>
                             <p>1.00</p>
@@ -64,9 +63,8 @@
                     </row>
                     <row rowsep="1">
                         <entry namest="c1" nameend="c4" align="right" colsep="1" rowsep="1">POSTAGE
-                            &amp; HANDLING ($2 For Orders Of $4 or more,
-                            50<?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>c<?oxy_custom_end?>
-                            For Orders of Less Than $4)</entry>
+                            &amp; HANDLING ($2 For Orders Of $4 or more, 50¢ For Orders of Less Than
+                            $4)</entry>
                         <entry colsep="1" rowsep="1"/>
                     </row>
                     <row rowsep="1">
