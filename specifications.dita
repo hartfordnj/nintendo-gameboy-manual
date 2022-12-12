@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="specifications">
     <title>Specifications</title>
@@ -37,12 +38,8 @@
             <strow>
                 <stentry>Sound output</stentry>
                 <stentry>
-                    <p>Speaker
-                        (8<?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>omega<?oxy_custom_end?>)
-                        10mW</p>
-                    <p>Headphones
-                        (16<?oxy_custom_start type="oxy_content_highlight" color="220,20,60"?>omeg<?oxy_custom_end?>a)
-                        2mW</p>
+                    <p>Speaker (8Ω) 10mW</p>
+                    <p>Headphones (16Ωa) 2mW</p>
                 </stentry>
             </strow>
             <strow>

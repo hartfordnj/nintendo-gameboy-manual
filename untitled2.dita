@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="untitled2">
     <title>Preface</title>
@@ -6,7 +7,7 @@
     <conbody>
         <note id="note_pqs_nm1_vvb">
             <p>This is a conversion of an orginal GAME BOY User Manaul into an XML-based PDF. </p>
-            <p>I used Oxygen XML Editor and Canva.com for editing purposes. </p>
+            <p>I used <b>Oxygen XML Editor</b> and <b>Canva.com</b> for editing purposes. </p>
             <p>The github repository for this file can be found <xref
                     href="https://github.com/hartfordnj/nintendo-gameboy-manual" format="html"
                     scope="external">here.</xref></p>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<?xml-stylesheet type="text/css" href="styles.css"?>
 <concept id="repair_service_after_warranty">
-    <title>2. REPAIR/SERVICE AFTER WARRANTY</title>
+    <title>REPAIR/SERVICE AFTER WARRANTY</title>
     <conbody>
         <p>If your GAME BOY component develops a problem requiring service after the 90-day warranty
             period, contact the Nintendo Consumer Service Department at 1-800-255-3700. If the

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<?xml-stylesheet type="text/css" href="styles.css"?>
 <bookmap>
     <booktitle>
         <mainbooktitle>GameBoy User Manual</mainbooktitle>
@@ -12,7 +13,6 @@
     <chapter href="section_1.dita">
         <topicref href="untitled2.dita"/>
         <topicref href="game_boy_features_0.dita"/>
-        <topicref href="description_of_features.dita"/>
         <topicref href="how_to_install_batteries.dita"/>
         <topicref href="how_to_use_the_game_boy.dita"/>
         <topicref href="how_to_use_the_video_link_cable.dita"/>

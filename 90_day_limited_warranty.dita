@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="_90_day_limited_warranty">
-    <title>1. 90-DAY LIMITED WARRANTY</title>
+    <title>90-DAY LIMITED WARRANTY</title>
     <conbody>
-        <p>90-DAY LIMITED WARRANTY NINTENDO GAME BOY</p>
+        <p>
+            <ol id="ol_o1b_jn1_vvb">
+                <li><b>90-DAY LIMITED WARRANTY NINTENDO GAME BOY</b></li>
+            </ol>
+        </p>
         <p>TO VALIDATE THE FOLLOWING 90-DAY LIMITED WARRANTY, YOUR WARRANTY CARD AND SALES SLIP OR
             PROOF OF PURCHASE, MUST BE COMPLETED AND RETURNED TO NINTENDO WITHIN 10 DAYS AFTER DATE
             OF PURCHASE. </p>
